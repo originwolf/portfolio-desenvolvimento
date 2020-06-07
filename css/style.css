@@ -2,7 +2,8 @@
     font-family: Ubuntu;
 }
 
-.navbar {
+.navbar,
+#footer {
     background-color: #212529;
 }
 
@@ -21,4 +22,33 @@
 .navbar-toggler {
     color: #FFF;
     font-size: 1.875rem;
+}
+
+.dropdown-menu {
+    background-color: #212529;
+}
+
+.dropdown-item {
+    color: #FFF;
+}
+
+.rodape a {
+    color: #FFF;
+}
+
+.rodape a:hover {
+    color: #CECECE;
+}
+
+.btnTop {
+	color: #aaa;
+	background-color: transparent;
+}
+
+.btnTop:hover {
+	color: white;
+}
+
+.btnTop:focus {
+    box-shadow: none;
 }
