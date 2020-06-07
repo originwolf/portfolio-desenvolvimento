@@ -1,3 +1,24 @@
 * {
     font-family: Ubuntu;
 }
+
+.navbar {
+    background-color: #212529;
+}
+
+.nav-link,
+.navbar-brand {
+    color: #FFF;
+    margin-left: 15px;
+}
+
+.nav-link:hover,
+.navbar-brand:hover,
+.navbar-toggler:hover {
+    color: #CECECE;
+}
+
+.navbar-toggler {
+    color: #FFF;
+    font-size: 1.875rem;
+}

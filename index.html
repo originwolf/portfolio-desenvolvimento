@@ -8,6 +8,7 @@
     <title>Portfólio de desenvolvimento</title>
     <!-- WEBFONT -->
     <link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/39e3608a27.js" crossorigin="anonymous"></script>
     <!-- FAVICON -->
     <!-- <link rel="shortcut icon" href=""> -->
     <!-- CSS -->
@@ -17,7 +18,39 @@
 
 </head>
 <body>
-    <h1>Teste</h1>
+    <header>
+        <nav class="navbar navbar-expand-md fixed-top">
+            <div class="col-2">
+                <a class="navbar-brand" href="index.html">Portfólio</a>
+            </div>
+            <button id="navbar-toggler" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Alterna navegação">
+                <span class="fas fa-bars"></span>
+            </button>
+            <div class="collapse navbar-collapse col-10" id="navbarNavDropdown">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Etapas</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Sobre nós</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Tecnologias usadas</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Projeto
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="index.html">Layout</a>
+                            <a class="dropdown-item" href="index.html">Desenvolvimento</a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    
     <!-- SCRIPT BOOTSTRAP -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
