@@ -52,3 +52,26 @@
 .btnTop:focus {
     box-shadow: none;
 }
+
+#banner {
+    background: url(../images/banner2.webp);
+}
+
+#text-banner {
+    color: #000;
+    font-size: 1.1405rem;
+    text-shadow: 2px 2px #CECECE;
+    font-weight: bold;
+}
+
+.link-banner a {
+    color: #000;
+    text-decoration: underline;
+    text-shadow: none;
+    transition: 0.3s;
+}
+
+.link-banner a:hover {
+    opacity: 0.5;
+    transition: 0.3s;
+}
