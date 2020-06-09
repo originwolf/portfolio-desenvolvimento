@@ -32,6 +32,15 @@
     color: #FFF;
 }
 
+.btnMenu {
+    background-color: transparent;
+	color: white;
+}
+
+.btnMenu:hover {
+	color: #aaa;
+}
+
 .rodape a {
     color: #FFF;
 }
@@ -49,7 +58,8 @@
 	color: white;
 }
 
-.btnTop:focus {
+.btnTop:focus,
+.btnMenu:focus {
     box-shadow: none;
 }
 
