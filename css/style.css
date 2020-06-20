@@ -65,6 +65,7 @@
 
 #banner {
     background: url(../images/banner.webp);
+    height: 500px;
 }
 
 #text-banner {
