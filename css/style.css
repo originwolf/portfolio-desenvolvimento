@@ -204,3 +204,13 @@ figure.effect-bubba:hover p {
 
 /* End of MOOZ Themes code */
 /* ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑ */
+
+/* Start About */
+#about {
+    background-color: #E9ECEF;
+}
+
+.imgSobre {
+    border-radius: 100%;
+    width: 20rem;
+}
