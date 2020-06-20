@@ -214,3 +214,12 @@ figure.effect-bubba:hover p {
     border-radius: 100%;
     width: 20rem;
 }
+
+/* Start tecnologias */
+
+.fab {
+    font-size: 10rem;
+}
+ i {
+     padding-bottom: 35px;;
+ }
