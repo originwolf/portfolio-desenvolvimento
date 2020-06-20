@@ -7,8 +7,8 @@
 Everton Afonso | Pedro Martins
 ---------------|---------------
 [GitHub](https://github.com/Everton-Afonso)|[GitHub](https://github.com/originwolf)
-[Lattes](https://github.com/Everton-Afonso)|[Lattes](http://lattes.cnpq.br/8655373056969189)
-[Linkedin](https://github.com/Everton-Afonso)|[Linkedin](https://www.linkedin.com/in/pedro-martins-dev)
+[Lattes](http://lattes.cnpq.br/2963454793224527)|[Lattes](http://lattes.cnpq.br/8655373056969189)
+[Linkedin](https://www.linkedin.com/in/everton-otavio-b5b035191/)|[Linkedin](https://www.linkedin.com/in/pedro-martins-dev)
 
 ## Sobre o projeto:
 
